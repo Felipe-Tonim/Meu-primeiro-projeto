@@ -4,7 +4,7 @@
 
 > Discover
 
-Projeto construído do evento Dev Links da Rocketseat.
+Projeto construído do curso Discover da Rocketseat.
 
 [🔗 Clique aqui para acessar](https://github.com/Felipe-Tonim/Meu-primeiro-projeto/)
 
