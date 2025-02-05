@@ -24,6 +24,7 @@
 }
 body {
   background: var(--bg-mobile) no-repeat top center/cover;
+  height: 100vh;
 }
 body * {
   font-family: "Inter", sans-serif;
@@ -131,4 +132,12 @@ ul li a:hover {
 }
 footer {
   text-align: center;
+}
+@media (min-width: 700px) {
+  :root {
+    --bg-mobile: url(./assets/bg-desktop.jpg);
+  }
+  .light {
+    --bg-mobile: url(./assets/bg-desktop-light.jpg);
+  }
 }
